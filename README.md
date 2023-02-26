@@ -2,7 +2,7 @@
 
 ● NFA를 입력했을 경우의 결과 <br>
 
-<img src="https://user-images.githubusercontent.com/112921582/221407484-9202337b-1e9d-48d9-a0d1-17b37abf2e3a.png" width="100" height="100"/> <br><br>
+<img src="https://user-images.githubusercontent.com/112921582/221407484-9202337b-1e9d-48d9-a0d1-17b37abf2e3a.png" width="1000" height="1000"/> <br><br>
 ![image](https://user-images.githubusercontent.com/112921582/221407488-7e7e1b50-541a-483b-bcd2-4d0afc9d4eff.png)<br><br>
 
 ● epsilon-NFA를 입력했을 경우의 결과<br>
